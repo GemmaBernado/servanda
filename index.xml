@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Servii Grammatici qui feruntur In Vergilii Aeneidos libros I-III Commentarii recensuit Georgius Thilo</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text>
+      <body>
+         
+         <div>
+            
+            <head>
+               <lb/>Servii Grammatici
+               <lb/>In Vergilii Aeneidos Librum Primum
+               <lb/>Commentarius
+            </head>
+            
+            <p>
+               <lb/>In exponendis auctoribus haec consideranda sunt: poetae vita,
+               <lb/>titulus operis, qualitas carminis, scribentis intentio, numerus libro-
+               <lb/>rum, ordo librorum, explanatio. Vergilii haec vita est. patre Ver-
+               <lb/>gilio matre Magia fuit; civis Mantuanus, quae civitas est Venetiae.
+               <lb/>diversis in locis operam litteris dedit; nam et
+            
+               <figure>
+                  <graphic url="virgilbn.jpg"></graphic>
+               </figure>
+            </p>
+            
+            
+         </div>
+         
+
+      </body>
+   </text>
+</TEI>
